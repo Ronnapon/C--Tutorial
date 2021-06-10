@@ -1,0 +1,16 @@
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\bin\Debug\net5.0\1_valiable.exe
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\bin\Debug\net5.0\1_valiable.deps.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\bin\Debug\net5.0\1_valiable.runtimeconfig.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\bin\Debug\net5.0\1_valiable.runtimeconfig.dev.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\bin\Debug\net5.0\1_valiable.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\bin\Debug\net5.0\ref\1_valiable.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\bin\Debug\net5.0\1_valiable.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\ref\1_valiable.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.genruntimeconfig.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\1_valiable\1_valiable\obj\Debug\net5.0\1_valiable.csprojAssemblyReference.cache
