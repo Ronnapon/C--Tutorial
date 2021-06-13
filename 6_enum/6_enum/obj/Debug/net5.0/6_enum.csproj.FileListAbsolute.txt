@@ -1,0 +1,15 @@
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\bin\Debug\net5.0\6_enum.exe
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\bin\Debug\net5.0\6_enum.deps.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\bin\Debug\net5.0\6_enum.runtimeconfig.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\bin\Debug\net5.0\6_enum.runtimeconfig.dev.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\bin\Debug\net5.0\6_enum.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\bin\Debug\net5.0\ref\6_enum.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\bin\Debug\net5.0\6_enum.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\6_enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\6_enum.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\6_enum.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\6_enum.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\6_enum.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\ref\6_enum.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\6_enum.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\6_enum\6_enum\obj\Debug\net5.0\6_enum.genruntimeconfig.cache
