@@ -1,0 +1,16 @@
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\bin\Debug\net5.0\3_class.exe
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\bin\Debug\net5.0\3_class.deps.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\bin\Debug\net5.0\3_class.runtimeconfig.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\bin\Debug\net5.0\3_class.runtimeconfig.dev.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\bin\Debug\net5.0\3_class.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\bin\Debug\net5.0\ref\3_class.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\bin\Debug\net5.0\3_class.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\ref\3_class.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.genruntimeconfig.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\3_class\3_class\obj\Debug\net5.0\3_class.csprojAssemblyReference.cache
