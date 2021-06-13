@@ -1,0 +1,15 @@
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\bin\Debug\net5.0\7_reference_type_value_v2.exe
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\bin\Debug\net5.0\7_reference_type_value_v2.deps.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\bin\Debug\net5.0\7_reference_type_value_v2.runtimeconfig.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\bin\Debug\net5.0\7_reference_type_value_v2.runtimeconfig.dev.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\bin\Debug\net5.0\7_reference_type_value_v2.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\bin\Debug\net5.0\ref\7_reference_type_value_v2.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\bin\Debug\net5.0\7_reference_type_value_v2.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\7_reference_type_value_v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\7_reference_type_value_v2.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\7_reference_type_value_v2.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\7_reference_type_value_v2.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\7_reference_type_value_v2.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\ref\7_reference_type_value_v2.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\7_reference_type_value_v2.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\7_reference_type_value_v2\7_reference_type_value_v2\obj\Debug\net5.0\7_reference_type_value_v2.genruntimeconfig.cache
