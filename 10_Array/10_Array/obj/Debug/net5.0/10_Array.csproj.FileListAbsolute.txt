@@ -1,0 +1,15 @@
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\bin\Debug\net5.0\10_Array.exe
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\bin\Debug\net5.0\10_Array.deps.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\bin\Debug\net5.0\10_Array.runtimeconfig.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\bin\Debug\net5.0\10_Array.runtimeconfig.dev.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\bin\Debug\net5.0\10_Array.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\bin\Debug\net5.0\ref\10_Array.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\bin\Debug\net5.0\10_Array.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\10_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\10_Array.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\10_Array.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\10_Array.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\10_Array.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\ref\10_Array.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\10_Array.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\10_Array\10_Array\obj\Debug\net5.0\10_Array.genruntimeconfig.cache
