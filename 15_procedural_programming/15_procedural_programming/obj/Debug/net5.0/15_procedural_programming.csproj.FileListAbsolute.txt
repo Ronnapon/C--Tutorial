@@ -1,0 +1,15 @@
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\bin\Debug\net5.0\15_procedural_programming.exe
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\bin\Debug\net5.0\15_procedural_programming.deps.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\bin\Debug\net5.0\15_procedural_programming.runtimeconfig.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\bin\Debug\net5.0\15_procedural_programming.runtimeconfig.dev.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\bin\Debug\net5.0\15_procedural_programming.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\bin\Debug\net5.0\ref\15_procedural_programming.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\bin\Debug\net5.0\15_procedural_programming.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\15_procedural_programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\15_procedural_programming.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\15_procedural_programming.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\15_procedural_programming.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\15_procedural_programming.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\ref\15_procedural_programming.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\15_procedural_programming.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\15_procedural_programming\15_procedural_programming\obj\Debug\net5.0\15_procedural_programming.genruntimeconfig.cache

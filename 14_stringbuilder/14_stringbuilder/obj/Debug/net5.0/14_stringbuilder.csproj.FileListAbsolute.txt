@@ -1,0 +1,15 @@
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\bin\Debug\net5.0\14_stringbuilder.exe
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\bin\Debug\net5.0\14_stringbuilder.deps.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\bin\Debug\net5.0\14_stringbuilder.runtimeconfig.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\bin\Debug\net5.0\14_stringbuilder.runtimeconfig.dev.json
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\bin\Debug\net5.0\14_stringbuilder.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\bin\Debug\net5.0\ref\14_stringbuilder.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\bin\Debug\net5.0\14_stringbuilder.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\14_stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\14_stringbuilder.AssemblyInfoInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\14_stringbuilder.AssemblyInfo.cs
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\14_stringbuilder.csproj.CoreCompileInputs.cache
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\14_stringbuilder.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\ref\14_stringbuilder.dll
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\14_stringbuilder.pdb
+D:\Users\E14-Ronnapon\Desktop\ProjectASP\CodewithMosh\14_stringbuilder\14_stringbuilder\obj\Debug\net5.0\14_stringbuilder.genruntimeconfig.cache
